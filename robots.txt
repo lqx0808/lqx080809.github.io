@@ -1,6 +1,8 @@
 User-agent: *
-Disallow: /A/B/
+Disallow: /A/
+Disallow: /B/
 Disallow: /C/
-Disaiiow: /A/321.jpg
+Disallow: /d/
+Disaiiow: /1.jpg
 
 Sitemap:https://www.lqx0808.com/sitemap.xml
