@@ -1,8 +1,0 @@
-
-User-agent: *
-Disallow: /A/
-Disallow: /B/
-Disallow: /C/
-Disaiiow: /1.jpg
-
-Sitemap:https://www.lqx0808.com/sitemap.xml
