@@ -1,8 +1,7 @@
 User-agent: *
-Disallow: /index.html
 Disallow: /favicon.ico
-Disallow: /1.png
+Disallow: /assets
 Disallow: /2.png
 Disallow: /3.jpg
 
-Sitemap: https://www.seohzz.com/sitemap.xml
+Sitemap: https://www.lqx0808.com/sitemap.xml
