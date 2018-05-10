@@ -1,7 +1,5 @@
 User-agent: *
 Disallow: /favicon.ico
 Disallow: /assets
-Disallow: /2.png
-Disallow: /3.jpg
 
 Sitemap: https://www.lqx0808.com/sitemap.xml
